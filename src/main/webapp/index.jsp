@@ -13,7 +13,7 @@
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2> welcome to netflix  priyaaaa...</h2>
+      <h2> welcome to netflix  PRIYA...</h2>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
